@@ -32,7 +32,7 @@ Ejemplo de uso común.
 Se identifica lo mas relevante de un conjunto de datos, para ello se  selecciona todos los datos disponibles o una muestra. 
 
 ---
-## Pre-procesamiento o limpieza 
+## Pre-procesamiento/limpieza 
 
 Los datos son analizados y se eliminan los ruidos de datos (son datos nulos, duplicados), Se usa tecnicas de reemplazo para solucionarlo. 
 
