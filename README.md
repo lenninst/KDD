@@ -80,6 +80,7 @@ Ejemplo al analizar el historial de compra de un cliente se puede determinar los
 Esta etapa es iterable de modo que si los resultados no son suficientes de puede iterar con el objetivo de encontrar nuevos patrones. En esta etapa se elimina patrones redundantes e irrelevantes. Con los patrones descubiertos se debe exponer de forma clara, en case de ser necesario se toman acciones para solucionar problemas o tomar decisiones.
 
 Ejemplo 
+este ejemplo fue tomado https://www.aprendemachinelearning.com/analisis-exploratorio-de-datos-pandas-python/
 url: https://colab.research.google.com/drive/15kzE3kZWUEiJ4nHM0IWcjKHGrmKdHd4k?hl=es#scrollTo=lojk41ZoyedU
 
 
