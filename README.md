@@ -17,8 +17,7 @@ Proceso automático en el cual se combina descubrimiento y análisis. Proce que 
 - Identificar grupo de personas o identificar patrones de compra de los clientes. 
 ---
 
-# Etapas del proceso [[KDD]] 
-
+# Etapas del proceso 
 - Selección.
 - Preprocesamiento/Limpieza.
 - Transformación/Reducción.
@@ -66,16 +65,15 @@ Consiste en eliminar columnas que no son relevantes para el análisis, por ejemp
 Los histogramas permiten simplificar  datos ejemplo si tenemos la altura de varias personas en lugar de representarlas de manera individual se puede crear un histograma donde represente un o agrupar el numero de personas que tienen una cierta edad.
 ---
 ## Minería de datos 
-
-title: Definicion
 Realiza busquedas o descubre patrones o secuencias de interés, 
 Para ello se aplican algorimos de clasificación y busqueda de patrones secuencias 
 
 ### Modelos predictivos
 El objetivo es obtener una predicción o un valor futuro usando algoritmos para procesar datos se usan dos variables. Una variable dependiente la cual depende de los datos históricos y una variable independiente esta variable depende de las características del dato.
 Ejemplo Ejemplo el valor de una casa depende del lugar en donde se ubica, tamaño, etc. En este caso el valor dependiente es el precio la cual se defina según un historial, y las variables independiente son las características de la casa que pueden modificar el valor histórico.
+
 ### Modelos descriptivos
-Se tratan de algoritmos  con la capacidad de encontrar patrones o secuencias en los datos analizados se enfocan en entender los datos existentes no hacer predicciones. Esto permite identificar grupos que están relacionados o que siguen un patrón. }
+Se tratan de algoritmos  con la capacidad de encontrar patrones o secuencias en los datos analizados se enfocan en entender los datos existentes no hacer predicciones. Esto permite identificar grupos que están relacionados o que siguen un patrón. 
 Ejemplo al analizar el historial de compra de un cliente se puede determinar los productos que consume regularmente.
 
 ## Etapa de interpretación 
