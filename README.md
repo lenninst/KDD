@@ -11,7 +11,7 @@ Proceso automático en el cual se combina descubrimiento y análisis. Proce que 
 - hacer minenia de datos
 - Presentar resultados
 
-
+Ejemplo de uso común.
 - Usado para determinar prefiles de clientes fraudulentos (evacion de impuestos).
 - Permite relacionar situaciones exsistens entre sintomas y enfermedades
 - Identificar grupo de personas o identificar patrones de compra de los clientes. 
