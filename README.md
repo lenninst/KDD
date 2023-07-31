@@ -1,31 +1,21 @@
 # KDD
-Este ejemplo fue tomado de 
-https://www.aprendemachinelearning.com/analisis-exploratorio-de-datos-pandas-python/
 
 # Proceso de descubrimiento en base de datos
 
 El Descubrimiento de conocimiento en bases de datos = (kdd, del inglés Knowledge Discovery in Databases)
 
-```ad-note
-title: Definicion
-
 Proceso automático en el cual se combina descubrimiento y análisis. Proce que consiste en extraer patrones en forma de reglas o funciones, a partir de los datos, para que el usuario los analice 
 
-
-
-```
 
 - Se trata de preprocesar datos.
 - hacer minenia de datos
 - Presentar resultados
 
 
-```ad-example
-title: Ejemplo
 - Usado para determinar prefiles de clientes fraudulentos (evacion de impuestos).
 - Permite relacionar situaciones exsistens entre sintomas y enfermedades
 - Identificar grupo de personas o identificar patrones de compra de los clientes. 
-```
+---
 
 # Etapas del proceso [[KDD]] 
 
@@ -35,21 +25,16 @@ title: Ejemplo
 - Minería de datos (data mining).
 - Interpretación/evaluación.
 
+---
 ## Seleccion
 
-```ad-note
-title: Definicion 
 Se identifica lo mas relevante de un conjunto de datos, para ello se  selecciona todos los datos disponibles o una muestra. 
 
-```
-
+---
 ## Pre-procesamiento o limpieza 
 
-```ad-note
-title: Definicion
 Los datos son analizados y se eliminan los ruidos de datos (son datos nulos, duplicados), Se usa tecnicas de reemplazo para solucionarlo. 
 
-```
 
 
 ### Datos ruidosos (noisy data):
@@ -70,12 +55,8 @@ Los datos son analizados y se eliminan los ruidos de datos (son datos nulos, dup
 
 ## Transformación/ reducción 
 
-```ad-note
-title: Definicion
 Busca características útiles para presentar datos,
 Busca reducir o transformar los datos en variables o rangos.
-
-```
 
 ### Reduccion horizontal
 Eliminar filas dentro de una base de datos, sustituyendo por un rango de valores de mayor jearquia. Ejemplo se puede simplificar las edades de una base da datos por rango de edades.
@@ -83,15 +64,12 @@ Eliminar filas dentro de una base de datos, sustituyendo por un rango de valores
 ### Reducción vertical
 Consiste en eliminar columnas que no son relevantes para el análisis, por ejemplo supongamos que nuestra tabla tiene las columnas edad y fecha de nacimiento, estas son correspondientes de modo que al saber la edad podemos calcular la fecha de nacimiento relativo de modo que se puede eliminar la fina de `fecha de nacimiento `
 Los histogramas permiten simplificar  datos ejemplo si tenemos la altura de varias personas en lugar de representarlas de manera individual se puede crear un histograma donde represente un o agrupar el numero de personas que tienen una cierta edad.
-
+---
 ## Minería de datos 
 
-```ad-note
 title: Definicion
 Realiza busquedas o descubre patrones o secuencias de interés, 
 Para ello se aplican algorimos de clasificación y busqueda de patrones secuencias 
-
-```
 
 ### Modelos predictivos
 El objetivo es obtener una predicción o un valor futuro usando algoritmos para procesar datos se usan dos variables. Una variable dependiente la cual depende de los datos históricos y una variable independiente esta variable depende de las características del dato.
@@ -104,13 +82,7 @@ Ejemplo al analizar el historial de compra de un cliente se puede determinar los
 Esta etapa es iterable de modo que si los resultados no son suficientes de puede iterar con el objetivo de encontrar nuevos patrones. En esta etapa se elimina patrones redundantes e irrelevantes. Con los patrones descubiertos se debe exponer de forma clara, en case de ser necesario se toman acciones para solucionar problemas o tomar decisiones.
 
 Ejemplo 
-
-```cardlink
 url: https://colab.research.google.com/drive/15kzE3kZWUEiJ4nHM0IWcjKHGrmKdHd4k?hl=es#scrollTo=lojk41ZoyedU
-title: "Google Colaboratory"
-host: colab.research.google.com
-image: https://colab.research.google.com/img/colab_favicon_256px.png
-```
 
 
 # Referencia
