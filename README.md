@@ -63,7 +63,7 @@ Eliminar filas dentro de una base de datos, sustituyendo por un rango de valores
 ### Reducción vertical
 Consiste en eliminar columnas que no son relevantes para el análisis, por ejemplo supongamos que nuestra tabla tiene las columnas edad y fecha de nacimiento, estas son correspondientes de modo que al saber la edad podemos calcular la fecha de nacimiento relativo de modo que se puede eliminar la fina de `fecha de nacimiento `
 Los histogramas permiten simplificar  datos ejemplo si tenemos la altura de varias personas en lugar de representarlas de manera individual se puede crear un histograma donde represente un o agrupar el numero de personas que tienen una cierta edad.
----
+
 ## Minería de datos 
 Realiza busquedas o descubre patrones o secuencias de interés, 
 Para ello se aplican algorimos de clasificación y busqueda de patrones secuencias 
