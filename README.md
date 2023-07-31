@@ -1,7 +1,7 @@
 # KDD
 
 # Proceso de descubrimiento en base de datos
-[Colab Notebook]([https://colab.research.google.com/notebooks/tu_carpeta/tu_archivo.ipynb](https://colab.research.google.com/drive/15kzE3kZWUEiJ4nHM0IWcjKHGrmKdHd4k?usp=sharing))
+[Colab Notebook](https://colab.research.google.com/drive/15kzE3kZWUEiJ4nHM0IWcjKHGrmKdHd4k?usp=drive_link)
 
 
 El Descubrimiento de conocimiento en bases de datos = (kdd, del inglés Knowledge Discovery in Databases)
